@@ -20,7 +20,7 @@ public class 嘻嘻 {
 		});
 		
 		a1.start();
-		
+		//这个只有dev中有
 		//sdfsdfsd
 		
 		a1.interrupt();
