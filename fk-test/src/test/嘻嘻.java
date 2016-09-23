@@ -1,6 +1,6 @@
 package test;
 
-public class ÎûÎû {
+public class å˜»å˜» {
 	public static void main(String[] args) {
 		Thread a1 = new Thread(new Runnable() {
 			
@@ -13,7 +13,7 @@ public class ÎûÎû {
 				try {
 					wait();
 				} catch (InterruptedException e) {
-					System.out.println("ÎÒ±»ÖĞ¶ÏÁË");
+					System.out.println("æˆ‘è¢«ä¸­æ–­äº†");
 					e.printStackTrace();
 				}
 			}
